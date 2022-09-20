@@ -1,0 +1,15 @@
+C:\Users\maslo\Desktop\test\sharp\bin\Debug\net6.0\sharp.exe
+C:\Users\maslo\Desktop\test\sharp\bin\Debug\net6.0\sharp.deps.json
+C:\Users\maslo\Desktop\test\sharp\bin\Debug\net6.0\sharp.runtimeconfig.json
+C:\Users\maslo\Desktop\test\sharp\bin\Debug\net6.0\sharp.dll
+C:\Users\maslo\Desktop\test\sharp\bin\Debug\net6.0\sharp.pdb
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.csproj.AssemblyReference.cache
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.AssemblyInfoInputs.cache
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.AssemblyInfo.cs
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.csproj.CoreCompileInputs.cache
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.dll
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\refint\sharp.dll
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.pdb
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\sharp.genruntimeconfig.cache
+C:\Users\maslo\Desktop\test\sharp\obj\Debug\net6.0\ref\sharp.dll
